@@ -1,0 +1,15 @@
+D:\рабочий стол\study\lesson 5 C#\hw\task 38\bin\Debug\net6.0\task 38.exe
+D:\рабочий стол\study\lesson 5 C#\hw\task 38\bin\Debug\net6.0\task 38.deps.json
+D:\рабочий стол\study\lesson 5 C#\hw\task 38\bin\Debug\net6.0\task 38.runtimeconfig.json
+D:\рабочий стол\study\lesson 5 C#\hw\task 38\bin\Debug\net6.0\task 38.dll
+D:\рабочий стол\study\lesson 5 C#\hw\task 38\bin\Debug\net6.0\task 38.pdb
+D:\рабочий стол\study\lesson 5 C#\hw\task 38\obj\Debug\net6.0\task 38.csproj.AssemblyReference.cache
+D:\рабочий стол\study\lesson 5 C#\hw\task 38\obj\Debug\net6.0\task 38.GeneratedMSBuildEditorConfig.editorconfig
+D:\рабочий стол\study\lesson 5 C#\hw\task 38\obj\Debug\net6.0\task 38.AssemblyInfoInputs.cache
+D:\рабочий стол\study\lesson 5 C#\hw\task 38\obj\Debug\net6.0\task 38.AssemblyInfo.cs
+D:\рабочий стол\study\lesson 5 C#\hw\task 38\obj\Debug\net6.0\task 38.csproj.CoreCompileInputs.cache
+D:\рабочий стол\study\lesson 5 C#\hw\task 38\obj\Debug\net6.0\task 38.dll
+D:\рабочий стол\study\lesson 5 C#\hw\task 38\obj\Debug\net6.0\refint\task 38.dll
+D:\рабочий стол\study\lesson 5 C#\hw\task 38\obj\Debug\net6.0\task 38.pdb
+D:\рабочий стол\study\lesson 5 C#\hw\task 38\obj\Debug\net6.0\task 38.genruntimeconfig.cache
+D:\рабочий стол\study\lesson 5 C#\hw\task 38\obj\Debug\net6.0\ref\task 38.dll
